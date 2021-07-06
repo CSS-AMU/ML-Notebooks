@@ -3,7 +3,7 @@ Repository for pushing codes and notebooks related to Machine Learning.
 
 ## To-do
 * Create your seperate folder with any name that you want.
-* You can use your folder to store notebooks, create sub-folders and manage it however you like.
+* You can use your folder to store notebooks, create sub-folders and manage it.
 * You can use both Git Bash or Github website. ( Though bash terminal is recommended )
 
 

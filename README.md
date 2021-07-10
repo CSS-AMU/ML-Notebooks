@@ -11,7 +11,7 @@ Repository for pushing codes and notebooks related to Machine Learning.
 ## Steps to submit a Pull request.
 
 * Fork the repository
-* Clone your own forked repo : ```$ git clone https://github.com/<user_name>/Learning-Git.git```
+* Clone your own forked repo : ```$ git clone https://github.com/<user_name>/ML-Notebooks.git```
 * ```$ cd ML-Notebooks```
 * Create your new branch : ```$ git checkout -b branch-name```
 * Make changes in the files or add your files.
